@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_view_pager.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/fragment_view_pager.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shops_recycler_item.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/shops_recycler_item.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_map.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_events.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/fragment_events.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_progress_bar.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/layout_progress_bar.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_information.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/fragment_information.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_snack_bar.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/layout_snack_bar.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/events_recycler_item.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/events_recycler_item.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_shops.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/fragment_shops.xml"
+    },
+    {
+        "merged": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/oleh/Project/Smartbox2/Smartbox/src/main/res/layout/activity_main.xml"
+    }
+]

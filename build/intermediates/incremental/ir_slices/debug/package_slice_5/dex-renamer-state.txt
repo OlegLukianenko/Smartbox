@@ -1,0 +1,4 @@
+#Wed Jun 26 23:50:37 EEST 2019
+base.0=/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

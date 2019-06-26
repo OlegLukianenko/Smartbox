@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F05223</color>
+    <color name="colorPrimaryDark">#d04227</color>
+    <color name="colorAccent">#F85829</color>
+
+    <color name="red_brown">#762214</color>
+    <color name="grey">#808284</color>
+    <color name="green">#7ab539</color>
+
+    <color name="white">#F3F8FE</color>
+
+    <color name="text_color">#626262</color>
+    <color name="sub_text_color">#D2D2D4</color>
+
+    <color name="internet_not_available">#CC323232</color>
+    <color name="internet_available">#CC056f00</color>
+
+    <color name="black_transparent_2">#99000000</color>
+    <color name="white_transparent">#80FFFFFF</color>
+</resources>
