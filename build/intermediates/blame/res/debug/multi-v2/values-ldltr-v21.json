@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "C:\\Project\\Smartbox\\Smartbox\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/home/oleh/.gradle/caches/transforms-2/files-2.1/6d29ab8ad8802b6b60c994a2751d5305/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\a5edd96daf7fbb0242d9006078ed9bac\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

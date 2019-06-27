@@ -51,12 +51,12 @@
             android:id="@+id/tabs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:theme="@style/ColorTabLayout"
+            style="@style/AppTabLayout"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/headerBackground"
             app:tabIndicatorColor="@android:color/white"
-            app:tabIndicatorHeight="4dp"
+            app:tabIndicatorHeight="2dp"
             app:tabSelectedTextColor="@android:color/white"
             app:tabTextColor="#b3ffffff" />
 

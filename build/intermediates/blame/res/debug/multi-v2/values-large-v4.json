@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/oleh/Project/Smartbox2/Smartbox/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "C:\\Project\\Smartbox\\Smartbox\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/oleh/.gradle/caches/transforms-2/files-2.1/6d29ab8ad8802b6b60c994a2751d5305/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\a5edd96daf7fbb0242d9006078ed9bac\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/oleh/.gradle/caches/transforms-2/files-2.1/c3d11fab5af34a48ff4a99f49d5a5c5b/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\dc1c8d7b2462f82143fef0dcbc3da26b\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
